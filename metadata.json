@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD Live Macro Intelligence Engine",
+  "description": "Real-time XAUUSD intraday market-mechanics intelligence engine and 10-category macro terminal analyzing multi-timeframe structure, continuous liquidity maps, volume profiles, and auction order flow with zero data fabrication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
